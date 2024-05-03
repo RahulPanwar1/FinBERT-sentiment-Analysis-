@@ -1,4 +1,4 @@
-# Enhancing Sentiment Analysis in Forex Trading UsiNG FinBERT
+# Enhancing Sentiment Analysis in Forex Trading Using FinBERT
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Improved the accuracy of the FinBERT model after Fine tuning the model on the Pa
 - Clone the repository using:
 
 ```
-git clone git@github.com:RahulPanwar1/FinBERT-sentiment-Analysis-e.git
+git clone git@github.com:RahulPanwar1/FinBERT-sentiment-Analysis-.git
 ```
 - Setup the dataset in the .ipynb file 
 
