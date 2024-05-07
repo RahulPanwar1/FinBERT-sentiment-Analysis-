@@ -8,7 +8,8 @@
 
 
 ## Description:
-Improved the accuracy of the FinBERT model after Fine tuning the model on the Paraphrased dataset using ChatGPT 3.5 and Pegasus
+Improved the accuracy of the FinBERT model after Fine tuning the model on the Paraphrased dataset using ChatGPT 3.5 and Pegasus.
+Used the Data Augmentation Technique of Paraphrasing on ChatGPT using the specific Prompt - "Generate a paraphrase for the following text, preserving the sentiment of the following statement: text" and Pegasus.
 
 ## Installation
 <br>
