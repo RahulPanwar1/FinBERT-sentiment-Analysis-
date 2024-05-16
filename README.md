@@ -19,6 +19,7 @@ Used the Data Augmentation Technique of Paraphrasing on ChatGPT using the specif
 ```
 git clone git@github.com:RahulPanwar1/FinBERT-sentiment-Analysis-.git
 ```
+- For the dataset creation using ChatGPT 3.5 use the API key for ChatGPT and use the Prompt - "Generate a paraphrase for the following text, preserving the sentiment of the following statement: text" on the title column for generating the dataset.
 - Setup the dataset in the .ipynb file 
 
 ## Usage:
